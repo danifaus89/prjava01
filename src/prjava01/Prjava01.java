@@ -22,7 +22,7 @@ public class Prjava01 {
             bw.write("  </body>");bw.newLine();
             bw.write("</html>");bw.newLine();
             bw.close();
-            System.out.println("Success");
+            System.out.println("Ha funcionat correctament!!");
             
         }catch (Exception e) {
         	
